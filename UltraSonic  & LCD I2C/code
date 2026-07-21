@@ -27,7 +27,7 @@ void loop() {
   lc.print("DISTANCE: ");
   LCD.setCursor(0,1);
   lcd.print(distnce); 
-  lcd.print(" CM")
+  lcd.print(" CM");
 
   delay(500);
 }
